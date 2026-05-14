@@ -70,7 +70,7 @@ export default function LandingPage() {
           handle: "@ravik",
           testimonial: "The best authentic south indian breakfast in Viluppuram. Simply incredible.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/adults-enjoying-mexican-food_23-2149663829.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/adults-enjoying-mexican-food_23-2149663829.jpg?_wi=1",
           imageAlt: "authentic south indian vegetarian restaurant interior",
         },
         {
@@ -78,7 +78,7 @@ export default function LandingPage() {
           handle: "@anjalis",
           testimonial: "Very clean, fresh food and quick service. Always my first choice.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/classic-luxury-restaurant-with-tables-chairs_140725-9388.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/classic-luxury-restaurant-with-tables-chairs_140725-9388.jpg?_wi=1",
           imageAlt: "authentic south indian vegetarian restaurant interior",
         },
         {
@@ -86,7 +86,7 @@ export default function LandingPage() {
           handle: "@vikramv",
           testimonial: "The masala dosa is perfect and coffee is just like homemade.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/collection-homegrown-vegetables-flowers-after-harvest-fro_181624-58049.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/collection-homegrown-vegetables-flowers-after-harvest-fro_181624-58049.jpg?_wi=1",
           imageAlt: "authentic south indian vegetarian restaurant interior",
         },
         {
@@ -94,7 +94,7 @@ export default function LandingPage() {
           handle: "@meerap",
           testimonial: "Great staff and wonderful ambience for family dinners.",
           rating: 4,
-          imageSrc: "http://img.b2bpic.net/free-photo/waiter-serving-coffee-customers-while-wearing-face-mask-due-covid19-epidemic_637285-7874.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/waiter-serving-coffee-customers-while-wearing-face-mask-due-covid19-epidemic_637285-7874.jpg?_wi=1",
           imageAlt: "authentic south indian vegetarian restaurant interior",
         },
         {
@@ -102,7 +102,7 @@ export default function LandingPage() {
           handle: "@karthikd",
           testimonial: "Best value for money. Love the hygiene standards.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-dining-tables-without-food_23-2150157792.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-dining-tables-without-food_23-2150157792.jpg?_wi=1",
           imageAlt: "authentic south indian vegetarian restaurant interior",
         },
       ]}
@@ -112,7 +112,7 @@ export default function LandingPage() {
           href: "#products",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/adults-enjoying-mexican-food_23-2149663829.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/adults-enjoying-mexican-food_23-2149663829.jpg?_wi=2"
       mediaAnimation="slide-up"
       avatars={[
         {
@@ -197,17 +197,17 @@ export default function LandingPage() {
         {
           title: "Farm Fresh Ingredients",
           description: "Sourced locally to ensure maximum freshness and nutritional value in every bite.",
-          imageSrc: "http://img.b2bpic.net/free-photo/collection-homegrown-vegetables-flowers-after-harvest-fro_181624-58049.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/collection-homegrown-vegetables-flowers-after-harvest-fro_181624-58049.jpg?_wi=2",
         },
         {
           title: "Traditional Hospitality",
           description: "Our service staff is trained to treat every guest with traditional Indian warmth.",
-          imageSrc: "http://img.b2bpic.net/free-photo/waiter-serving-coffee-customers-while-wearing-face-mask-due-covid19-epidemic_637285-7874.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/waiter-serving-coffee-customers-while-wearing-face-mask-due-covid19-epidemic_637285-7874.jpg?_wi=2",
         },
         {
           title: "Strict Hygiene Standards",
           description: "Cleanliness is our top priority, from our kitchen prep area to your dining table.",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-dining-tables-without-food_23-2150157792.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-dining-tables-without-food_23-2150157792.jpg?_wi=2",
         },
       ]}
       title="Why Choose Anandha"
@@ -277,7 +277,7 @@ export default function LandingPage() {
           quote: "Fantastic flavors!",
           tag: "Breakfast",
           avatarSrc: "http://img.b2bpic.net/free-photo/outdoor-shot-delighted-happy-dark-skinned-young-female-wears-red-blouse-listens-audio-song-headphones_273609-3479.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/adults-enjoying-mexican-food_23-2149663829.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/adults-enjoying-mexican-food_23-2149663829.jpg?_wi=3",
           imageAlt: "happy diner portrait restaurant",
         },
         {
@@ -288,7 +288,7 @@ export default function LandingPage() {
           quote: "Feels like home.",
           tag: "Dinner",
           avatarSrc: "http://img.b2bpic.net/free-photo/happy-woman-holding-toast-while-enjoying-lunch-with-her-friends-home_637285-5886.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/classic-luxury-restaurant-with-tables-chairs_140725-9388.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/classic-luxury-restaurant-with-tables-chairs_140725-9388.jpg?_wi=2",
           imageAlt: "happy diner portrait restaurant",
         },
         {
@@ -299,7 +299,7 @@ export default function LandingPage() {
           quote: "Fresh ingredients.",
           tag: "Lunch",
           avatarSrc: "http://img.b2bpic.net/free-photo/beautiful-african-american-woman-cafe_273609-5052.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/collection-homegrown-vegetables-flowers-after-harvest-fro_181624-58049.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/collection-homegrown-vegetables-flowers-after-harvest-fro_181624-58049.jpg?_wi=3",
           imageAlt: "happy diner portrait restaurant",
         },
         {
@@ -310,7 +310,7 @@ export default function LandingPage() {
           quote: "Perfect service.",
           tag: "Snacks",
           avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-people-with-delicious-food_23-2149019179.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/waiter-serving-coffee-customers-while-wearing-face-mask-due-covid19-epidemic_637285-7874.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/waiter-serving-coffee-customers-while-wearing-face-mask-due-covid19-epidemic_637285-7874.jpg?_wi=3",
           imageAlt: "happy diner portrait restaurant",
         },
         {
@@ -321,7 +321,7 @@ export default function LandingPage() {
           quote: "Best in town.",
           tag: "Lunch",
           avatarSrc: "http://img.b2bpic.net/free-photo/fashionable-male-with-beard-appeasing-hunger-while-dining-alone-modern-restaurant-sunny-day-eating-meal-with-knife-fork_273609-1966.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-dining-tables-without-food_23-2150157792.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-dining-tables-without-food_23-2150157792.jpg?_wi=3",
           imageAlt: "happy diner portrait restaurant",
         },
       ]}
